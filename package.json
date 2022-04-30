@@ -1,0 +1,27 @@
+{
+  "name": "invoice-api",
+  "version": "1.0.0",
+  "description": "API for Frontend mentor Invoice tracking application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iadefidipe/invoice-app-api.git"
+  },
+  "keywords": [
+    "API",
+    "CRUD",
+    "Backend-project"
+  ],
+  "author": "Israel Adefidipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iadefidipe/invoice-app-api/issues"
+  },
+  "homepage": "https://github.com/iadefidipe/invoice-app-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
